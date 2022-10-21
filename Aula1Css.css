@@ -1,0 +1,32 @@
+
+.classe1 {
+    text-align: center;
+    background-color: blue;
+    color: antiquewhite;
+}
+
+.classe2{
+    text-align: end;
+    top: 100px;
+    left: 50px;
+    background-color: rgb(53, 49, 49);
+    color: azure;
+    
+}
+
+
+.classe5 {
+   text-align: center ;
+    background-color: red;
+    color: antiquewhite;
+    border-radius: 20%;
+    border-color: aqua;
+    
+}
+
+img{border-radius: 20%}
+
+.classe3 {text-align: center; border-style: groove; background-color: rgb(123, 100, 144); padding-left: 10pt; }
+
+.cor {background-color: chartreuse; color: coral; border: rgb(123, 100, 144);}
+
